@@ -1,0 +1,12 @@
+Hardware Requirements 
+GPS Module
+ESP32 Microcontroller
+ADXL345 Accelerometer Sensor
+ Wi-Fi Module (Built-in ESP32)
+Power Supply (Battery/USB)
+Connecting Wires
+
+Software Requirements 
+Arduino IDE
+Universal Telegram Bot Library (For Notifications)
+Wi-Fi Library (For Network Communication)
